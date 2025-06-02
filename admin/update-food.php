@@ -1,3 +1,5 @@
+<?php include('partials/menu.php');?>
+
 if(isset($_FILES['images']['name']))
 {
   $image_name =$_FILES['images']['name'];
@@ -40,3 +42,4 @@ if(isset($_FILES['images']['name']))
     }
   }
 }
+<?php include('partials/footer.php');?>
