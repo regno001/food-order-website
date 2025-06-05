@@ -42,4 +42,7 @@ if(isset($_FILES['images']['name']))
     }
   }
 }
+
+//new code will be executed soon
+
 <?php include('partials/footer.php');?>
