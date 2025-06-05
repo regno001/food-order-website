@@ -65,6 +65,27 @@
             <input type="radio" name="active" value="yes">no
           </td>
         </tr>
+         <tr>
+          <td>Active:</td>
+          <td>
+            <input type="radio" name="active" value="yes">yes
+            <input type="radio" name="active" value="yes">no
+          </td>
+        </tr>
+         <tr>
+          <td>Active:</td>
+          <td>
+            <input type="radio" name="active" value="yes">yes
+            <input type="radio" name="active" value="yes">no
+          </td>
+        </tr>
+         <tr>
+          <td>Active:</td>
+          <td>
+            <input type="radio" name="active" value="yes">yes
+            <input type="radio" name="active" value="yes">no
+          </td>
+        </tr>
         <tr>
           <td colspan="2">
             <input type="submit" name="submit" value="Update Category" class="btn-secondary">
