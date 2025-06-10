@@ -1,5 +1,5 @@
 <?php include('partials/menu.php');?>
-
+<?php 
 if(isset($_FILES['images']['name']))
 {
   $image_name =$_FILES['images']['name'];
