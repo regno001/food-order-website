@@ -42,6 +42,17 @@ if(isset($_FILES['images']['name']))
     }
   }
 }
+else
+    {
+      $image_name =$current_image;
+    }
+    }
+    else
+    {
+      $image_name =$current_image;
+    }
+  }
+}
 
 //new code will be executed soon
 
