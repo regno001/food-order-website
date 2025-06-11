@@ -5,4 +5,6 @@ hey there
 tommorow onwards
 stay tuned
 
+kl se
+
 <?php include('partials/footer.php');?>
