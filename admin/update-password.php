@@ -6,5 +6,6 @@ tommorow onwards
 stay tuned
 
 kl se
+hui
 
 <?php include('partials/footer.php');?>
