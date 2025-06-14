@@ -7,5 +7,6 @@ stay tuned
 
 kl se
 hui
-ok
+
+hi
 <?php include('partials/footer.php');?>
