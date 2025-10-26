@@ -1,7 +1,7 @@
 <?php include('partials/manu.php'); ?>
 
 <body>
-    <!-- Navbar Section Starts Here -->
+    <!-- Navbar Section Starts Here    additional details can be added-->
     <section class="navbar">
         <div class="container">
             <div class="logo">
